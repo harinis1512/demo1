@@ -1,0 +1,7 @@
+.second{
+    background-image: linear-gradient(violet,blue,lavender);
+    color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

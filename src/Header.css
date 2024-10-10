@@ -1,0 +1,15 @@
+.first{
+    background-image: linear-gradient(rgb(171, 50, 171),blue);
+    color: white;
+    
+    
+}
+
+.fourth{
+    border: 2px  ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
